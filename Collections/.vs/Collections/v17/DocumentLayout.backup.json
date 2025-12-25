@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{011ABB64-0EE8-406B-A04B-6A61ED85226B}|Collections.csproj|C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ABB64-0EE8-406B-A04B-6A61ED85226B}|Collections.csproj|solutionrelative:dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF7D17-00A2-4003-A641-AF4EB256A731}|..\\Tuple\\Tuple.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\tuple\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF7D17-00A2-4003-A641-AF4EB256A731}|..\\Tuple\\Tuple,Struct,Class.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\tuple\\structexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011ABB64-0EE8-406B-A04B-6A61ED85226B}|Collections.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\collections\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ABB64-0EE8-406B-A04B-6A61ED85226B}|Collections.csproj|solutionrelative:arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011ABB64-0EE8-406B-A04B-6A61ED85226B}|Collections.csproj|C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011ABB64-0EE8-406B-A04B-6A61ED85226B}|Collections.csproj|solutionrelative:list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StructExample.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Tuple\\StructExample.cs",
+              "RelativeDocumentMoniker": "..\\Tuple\\StructExample.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Tuple\\StructExample.cs",
+              "RelativeToolTip": "..\\Tuple\\StructExample.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:32:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tuple.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Tuple\\Tuple.cs",
+              "RelativeDocumentMoniker": "..\\Tuple\\Tuple.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Tuple\\Tuple.cs",
+              "RelativeToolTip": "..\\Tuple\\Tuple.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwHQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:01:28.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\Arrays.cs",
+              "RelativeDocumentMoniker": "Arrays.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\Arrays.cs",
+              "RelativeToolTip": "Arrays.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T04:35:55.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\Dictionary.cs",
+              "RelativeDocumentMoniker": "Dictionary.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\Dictionary.cs*",
+              "RelativeToolTip": "Dictionary.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:19:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\List.cs",
+              "RelativeDocumentMoniker": "List.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Collections\\List.cs",
+              "RelativeToolTip": "List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:37:51.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

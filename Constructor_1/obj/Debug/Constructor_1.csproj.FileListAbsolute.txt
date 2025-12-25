@@ -1,0 +1,7 @@
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Constructor_1\bin\Debug\Constructor_1.exe.config
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Constructor_1\bin\Debug\Constructor_1.exe
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Constructor_1\bin\Debug\Constructor_1.pdb
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Constructor_1\obj\Debug\Constructor_1.csproj.AssemblyReference.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Constructor_1\obj\Debug\Constructor_1.csproj.CoreCompileInputs.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Constructor_1\obj\Debug\Constructor_1.exe
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Constructor_1\obj\Debug\Constructor_1.pdb

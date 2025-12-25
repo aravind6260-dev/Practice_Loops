@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3621E938-9CBE-4C38-8544-5F223CB4A478}|..\\Constructor_1\\Constructor_1.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\constructor_1\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA6E0AB-A696-40C7-AD45-B60148964952}|Constructor.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\constructor\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA6E0AB-A696-40C7-AD45-B60148964952}|Constructor.csproj|solutionrelative:constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Constructor_1\\MainClass.cs",
+              "RelativeDocumentMoniker": "..\\Constructor_1\\MainClass.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Constructor_1\\MainClass.cs",
+              "RelativeToolTip": "..\\Constructor_1\\MainClass.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:28:20.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constructor.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Constructor\\Constructor.cs",
+              "RelativeDocumentMoniker": "Constructor.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Constructor\\Constructor.cs",
+              "RelativeToolTip": "Constructor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T05:29:59.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

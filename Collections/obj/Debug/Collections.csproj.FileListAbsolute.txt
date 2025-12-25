@@ -1,0 +1,7 @@
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Collections\bin\Debug\Collections.exe.config
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Collections\bin\Debug\Collections.exe
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Collections\bin\Debug\Collections.pdb
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Collections\obj\Debug\Collections.exe
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Collections\obj\Debug\Collections.pdb
